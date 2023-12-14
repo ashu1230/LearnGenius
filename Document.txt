@@ -1,1 +1,7 @@
-Name of the project is -> LernGenius
+1. Name of the project is -> LernGenius
+
+2. For use node mailer----- a. go to google account managment.
+                            b. than go to Security option.
+                            c. go than 2-Step Verification(How you sign in to Google).
+                            d. scroll down on App passwords, thank click(App passwords).
+                            e. than enter your project name, click on create, (16 charector password).
