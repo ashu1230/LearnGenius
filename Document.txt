@@ -5,3 +5,7 @@
                             c. go than 2-Step Verification(How you sign in to Google).
                             d. scroll down on App passwords, thank click(App passwords).
                             e. than enter your project name, click on create, (16 charector password).
+
+                            MAIL_HOST = smtp.gmail.com
+                            MAIL_USER = mailId
+                            MAIL_PASS = (16 charector password)
