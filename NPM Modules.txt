@@ -2,3 +2,4 @@
 2. react-type-animation
 3. npm i @reduxjs/toolkit
 4. npm i react-redux
+5. npm i react-hot-toast
