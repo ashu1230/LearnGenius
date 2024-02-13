@@ -1,2 +1,3 @@
 1. npm i concurrently
 2. react-type-animation
+3. npm i @reduxjs/toolkit
